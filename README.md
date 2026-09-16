@@ -73,7 +73,8 @@
 
         <!-- YOUR PHOTO -->
         <div class="profile">
-            <img src="my-photo.jpg" alt="Photo of me">
+            <img src="<img width="1750" height="2404" alt="IMG_8904" src="https://github.com/user-attachments/assets/d930dc43-9994-46a6-8feb-1983aa794856" />
+" alt="Photo of me">
             <h2>About Me</h2>
             <p>
                 Hi, I'm Giorgio. I am a Computer Science student interested
