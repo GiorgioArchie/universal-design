@@ -105,13 +105,6 @@
                 <strong>Technologies:</strong>
                 Python, AI/ML, APIs, SQL, TradingView, Unusual Whales
             </p>
-
-            <p>
-                <a href="https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY"
-                   target="_blank">
-                    View Project on GitHub
-                </a>
-            </p>
             <p>
                 <a href="https://giorgioarchie.github.io/Intern-Milan-Page/"
                    target="_blank">
