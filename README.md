@@ -112,6 +112,12 @@
                     View Project on GitHub
                 </a>
             </p>
+            <p>
+                <a href="https://giorgioarchie.github.io/Intern-Milan-Page/"
+                   target="_blank">
+                    View Wikipedia Semantic Project
+                </a>
+            </p>
         </div>
 
         <!-- SKILLS -->
