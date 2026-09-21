@@ -85,7 +85,7 @@
 
         <!-- PROJECT -->
         <div class="project">
-            <h2>My Project</h2>
+            <h2>My Projects</h2>
 
             <h3>AI Trading Application</h3>
 
@@ -105,6 +105,9 @@
                 <strong>Technologies:</strong>
                 Python, AI/ML, APIs, SQL, TradingView, Unusual Whales
             </p>
+            
+            <h3>Class Wikipedia Semantic Project</h3>
+            
             <p>
                 <a href="https://giorgioarchie.github.io/Intern-Milan-Page/"
                    target="_blank">
