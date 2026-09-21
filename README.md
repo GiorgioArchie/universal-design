@@ -104,9 +104,12 @@
             <p>
                 <strong>Technologies:</strong>
                 Python, AI/ML, APIs, SQL, TradingView, Unusual Whales
+                
             </p>
+
+
             
-            <h3>Class Wikipedia Semantic Project</h3>
+            <h3>Class Wikipedia Semantic Project:</h3>
             
             <p>
                 <a href="https://giorgioarchie.github.io/Intern-Milan-Page/"
